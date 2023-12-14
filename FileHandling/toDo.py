@@ -1,21 +1,22 @@
-# To write contents in the file
-salary = open("salary.txt", 'w')
+f = open("salary.txt", "w")
 
-salary.writelines("10000\n")
-salary.writelines("2000\n")
-salary.writelines("1200\n")
-salary.writelines("13400\n")
-salary.writelines("21000\n")
+# f.writeline("10000")
+# f.writeline("12000")
+f.write("10000")
+f.write("\n")
+f.write("10003")
 
-salary.close()
+f.close()
 
-# Read contents from file
-salary = open("salary.txt",'r')
 
-while True:
-    f = salary.readline()
-    if f == '':
-        break
-    print(f)
+# f = open("salary.txt", "r")
 
-salary.close()
+# sum = 0
+# while True:
+#     l = f.readline()
+#     if (l == ''):
+#         break
+#     sum += int(l)
+#     print(l)
+
+# print(f"Sum is {sum}")
