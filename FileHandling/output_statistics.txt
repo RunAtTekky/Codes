@@ -1,0 +1,3 @@
+Mean: 85.4
+Median: 85.0
+Mode: 80.0
