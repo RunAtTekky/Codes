@@ -1,0 +1,12 @@
+[x] Get total amount withdrawn from ATM. 
+[x] Explain the importance of datatype conversion in numeric operation
+[x] Right shift operator
+[x] OOPS Fundamentals
+[x] Pattern making
+[x] Search in python
+[x] Recursive binary Search
+[x] Connects to a database ODBC and retrieves information from a table
+[x] Python code for simple server that listens on a specific port and recieves messages from a client
+[x] Compare encapsulation and abstraction in OOP with example program
+[x] Write a program to connect MySQL database and execute a query
+
